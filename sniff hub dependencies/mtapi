@@ -31,7 +31,7 @@ local function b()
 end
 if a() == 2 then
     error("mt-api: Exploit not supported")
-    game.Players.LocalPlayer:Kick("exploit not supported")
+    game.Players.LocalPlayer:Kick("exploit not supported, please use sniff hub lite")
 end
 local d = {}
 local e = {}
